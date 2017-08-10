@@ -24,6 +24,7 @@ import java.util.List;
 
 /**
  * Helper methods related to requesting and receiving earthquake data from USGS.
+ * Handles JSON repsonse
  */
 public final class QueryUtils {
 
