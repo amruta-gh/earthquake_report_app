@@ -19,7 +19,13 @@ This app is all about how to request data from an web API and how to parse the J
 1. Create a new project 
 2. Right click on source --> Import the source code
 
+# Screenshots
+------------------------------------
+![earthquake](https://user-images.githubusercontent.com/19851044/29196136-64d73ffe-7de7-11e7-9576-90bd40a7b9a6.jpg)
+![settings](https://user-images.githubusercontent.com/19851044/29196138-66a49728-7de7-11e7-8a37-a8beb1f78366.jpg)
+
 -------------------------------------
 
-> Amruta Ghangale
-Udacity course 
+> Amruta
+
+Part of Udacity learning
