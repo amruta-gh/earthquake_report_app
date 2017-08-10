@@ -12,7 +12,9 @@ import android.widget.ListView;
 import org.json.JSONException;
 
 import java.util.ArrayList;
-
+/**
+* EarthquakeActivity: displaying list of earthquakes
+*/ 
 public class EarthquakeActivity extends AppCompatActivity {
 
     public static final String LOG_TAG = EarthquakeActivity.class.getName();
